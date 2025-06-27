@@ -20,6 +20,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define MASTER_RIGHT
 
+#define TAPPING_TERM 275
+#define IGNORE_MOD_TAP_INTERRUPT
+
 #define AUDIO_PIN C6
 
 #define SELECT_SOFT_SERIAL_SPEED 1

@@ -34,6 +34,7 @@ quantum/version.h
 *.bin
 *.eep
 *.qmk
+*.hex
 *.uf2
 
 # DD config at wrong location
